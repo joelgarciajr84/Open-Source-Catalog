@@ -37,6 +37,5 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 
 * Add your instatiated meta-record to the array in the catalog.json file via a pull request
 * Once the merge is complete, your project will be published on [code.nasa.gov](http://code.nasa.gov/)
-
 ##Thanks
 Special thanks goes out to [Chris Mattmann (NASA JPL)](https://github.com/chrismattmann), Sean Kelly (NASA JPL) and [Eric Whyne (DARPA)](https://github.com/ericwhyne) for their inspiration for this effort.
